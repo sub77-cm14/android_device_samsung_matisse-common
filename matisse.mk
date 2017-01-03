@@ -58,7 +58,8 @@ PRODUCT_PACKAGES += \
     camera.msm8226 \
     libstlport \
     libxml2 \
-    Snap
+    Snap \
+    Camera2
 
 # Doze
 PRODUCT_PACKAGES += \
